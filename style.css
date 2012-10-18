@@ -2726,7 +2726,22 @@ img {
 /* =Plugin Styles
 -------------------------------------------------------------- */
 .addthis_toolbox a { border: none; }
-
+.accordion-title { 
+	font-size: 1.5em; 
+	font-weight: normal; 
+	line-height: 1.2em; 
+	clear: both; 
+	border-bottom: none; 
+	text-decoration: underline;
+	background: url('images/navigation-arrow.png') no-repeat -1px 6px;
+	padding: .2em 10px .2em 27px;
+	cursor: pointer;
+}
+.accordion-title.down {
+	background-position: -2px -26px;
+}
+.accordion-title:hover, .accordion-title:active { border-bottom: none; text-decoration: underline;}
+.accordion-content { margin: .3em 0;}
 
 /* =Comments
 -------------------------------------------------------------- */
