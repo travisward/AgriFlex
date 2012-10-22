@@ -2733,12 +2733,12 @@ img {
 	clear: both; 
 	border-bottom: none; 
 	text-decoration: underline;
-	background: url('images/navigation-arrow.png') no-repeat -1px 6px;
+	background: url('images/accordion-arrow.png') no-repeat -1px 6px;
 	padding: .2em 10px .2em 27px;
 	cursor: pointer;
 }
 .accordion-title.down {
-	background-position: -2px -26px;
+	background: url('images/accordion-arrow-down.png') no-repeat -1px 6px;
 }
 .accordion-title:hover, .accordion-title:active { border-bottom: none; text-decoration: underline;}
 .accordion-content { margin: .3em 0;}
