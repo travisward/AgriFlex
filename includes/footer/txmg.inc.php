@@ -31,7 +31,7 @@
 		<div id="texas-a-m">
 			<div class="texas-a-m">			
 			<h4>Required Links</h4>
-				<a href="http://www.tamus.edu"><img src="<?php bloginfo( 'template_directory' ); ?>/images/texas-a-m-system.png" alt="Texas A&amp;M System image" /></a>
+				<a href="http://www.tamus.edu"><img src="<?php bloginfo( 'template_directory' ); ?>/images/texas-a-m-system.png" alt="Member of the Texas A&M System" /></a>
 				<ul>
 					<li><a href="http://agrilife.org/vc/compact/">Compact with Texans</a></li>
 					<li><a href="http://agrilife.org/vc/privacy/">Privacy and Security</a></li>
