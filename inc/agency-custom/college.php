@@ -76,7 +76,7 @@ function agriflex_college_explore() {
 function college_about( $about ) {
 
   $html = '<h4>About</h4>';
-  $html .= '<a href="http://www.youtube.com/watch?v=NrfZh8t443M"><img src="' . get_bloginfo( 'template_directory' ) . '/img/college-video.jpg?v=100" alt="link to College about video" /></a>';
+  $html .= '<a href="http://www.youtube.com/watch?v=l3rwg2y87ZU"><img src="' . get_bloginfo( 'template_directory' ) . '/img/college-video.jpg?v=100" alt="link to College about video" /></a>';
   $html .= '<p>The College of Agriculture and Life Sciences is the largest of its kind in the U.S. with 400 faculty members, including winners of prestigious awards like the Nobel, Wolf and World Food Prizes. It provides students with hands-on involvement in developing solutions to today&apos;s issues like bioenergy, environmental sustainability, international food security, and youth development.</p>';
 
   return $html;
